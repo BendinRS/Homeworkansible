@@ -1,4 +1,3 @@
-git clone https://github.com/BendinRS/Homeworkansible.git
 cd Homeworkansible
 vagrant up
 ansible-playbook roles/bendin/tests/test.yml 
