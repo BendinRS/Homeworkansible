@@ -1,4 +1,3 @@
-cd Homeworkansible
 vagrant up
 ansible-playbook roles/bendin/tests/test.yml 
 curl http://192.168.2.150:8080
