@@ -13,4 +13,4 @@
 ```out
 ansible-galaxy init bendin
 ```
-1. В _файл [tests/test.yml](scriptYurl.sh):_ лежит основной плейбук
+1. В _файле [test.yml](tests/test.yml):_ лежит основной плейбук
